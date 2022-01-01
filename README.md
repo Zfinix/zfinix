@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Chiziaruhoma
-![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
+### Hi there 👋, I'm Chiziaruhoma ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
 Seasoned Mobile Engineer ⚡️ Building DeFi & Web3 tooling for the Flutter/Dart ecosystem. 
 
