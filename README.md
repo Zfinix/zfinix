@@ -1,15 +1,6 @@
 ### Hi there 👋, I'm Chiziaruhoma ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Seasoned Mobile Engineer ⚡️ Building DeFi & Web3 tooling for the Flutter/Dart ecosystem. 
+Senior Software Engineer | Google Developer Expert (Flutter & Dart)
+Blockchain & Fintech Specialist | Mobile Architecture Leader
 
-
-<hr>
-
-<hr>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zfinix&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
-
-<hr>
-
+With over 7 years of experience, I build scalable DeFi, Web3, and mobile solutions that drive innovation and user growth. I'm passionate about open-source, agile collaboration, and delivering robust, regulatory-compliant fintech applications. Always exploring new ways to push the boundaries of mobile and blockchain technology.
